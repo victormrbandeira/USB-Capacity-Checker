@@ -1,6 +1,6 @@
 # USB-Capacity-Checker
 
-<img width="256" height="256" alt="USB Capacity Checker" aligh="center" src="https://github.com/user-attachments/assets/8412e907-c420-4949-9016-b590da75938c" />
+<div align="center><img width="128" height="128" alt="USB Capacity Checker" src="https://github.com/user-attachments/assets/8412e907-c420-4949-9016-b590da75938c" /div>
 
 
 O USB Capacity Checker funciona exatamente igual ao ValiDrive da GRC, verificando, por amostragem, a capacidade real de pendrives, SSDs e cartões USB, grava dados aleatórios em 576 pontos do drive, confere a leitura e restaura o conteúdo original. O mapa colorido mostra, região por região e se o drive realmente armazena a quantidade de dados que promete.
